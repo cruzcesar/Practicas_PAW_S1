@@ -1,0 +1,18 @@
+{
+  "name": "serv-static-html",
+  "version": "0.0.0",
+  "description": "Programa que permite archivos estaticos html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "static",
+    "server"
+  ],
+  "author": "Cesar",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^0.10.1"
+  }
+}
