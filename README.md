@@ -4,6 +4,7 @@ Correspondite al los IV Seguimientos
 Seguimiento 1
 
 S4
+
 1.-pk01_static_content.
 
 2.-pk02_static_content_ mime.
